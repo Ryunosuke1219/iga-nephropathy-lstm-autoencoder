@@ -12,7 +12,7 @@ import os
 
 # --- Load Data ---
 LATENT_REPS_FILE = 'output/latent_representations.npz'
-BASELINE_FILE = 'data/baseline_873.csv'
+BASELINE_FILE = 'data/baseline.csv'
 OUTCOME_FILE = 'data/outcome.csv'
 
 latent_data = np.load(LATENT_REPS_FILE)
