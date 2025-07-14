@@ -20,7 +20,7 @@ np.random.seed(SEED_VALUE)
 tf.random.set_seed(SEED_VALUE)
 
 # --- Data Loading ---
-SEQ_FILE = 'data/seq_tensor_873.npz'
+SEQ_FILE = 'data/seq_tensor.npz'
 BASE_FILE = 'data/baseline.csv' # Used in the next script
 
 data = np.load(SEQ_FILE)
