@@ -76,4 +76,4 @@ The following outputs will be generated in the `output/` directory:
 
 If you use this code in your research, please cite the original paper:
 
-> Noda, R., Ichikawa, D., Shirai, S., & Shibagaki, Y. (2025). Clinical Trajectory Patterns in IgA Nephropathy Identified by Deep Learning and Their Association with Renal Outcomes. *Clinical Journal of the American Society of Nephrology*.
+> Noda, R., Ichikawa, D., Shirai, S., & Shibagaki, Y. (2025). Clinical Trajectory Patterns in IgA Nephropathy Identified by Deep Learning and Their Association with Renal Outcomes. 
