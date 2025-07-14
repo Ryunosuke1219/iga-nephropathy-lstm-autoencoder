@@ -10,7 +10,7 @@ This project uses a Long Short-Term Memory (LSTM) autoencoder to identify distin
 
 ### Prerequisites
 
-- Python 3.9+
+- Python 3.9+ (developed and tested with 3.11.13)
 - Pip
 
 ### Installation
